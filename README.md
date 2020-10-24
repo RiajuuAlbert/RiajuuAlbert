@@ -23,6 +23,6 @@ I see myself as an aspiring person that loves to learn anything new, and this is
 Kindly reach me out in my social medias:
 Platform | Link
 --- | --- 
-Linkedin |  [Albert Setiawan](https://www.linkedin.com/in/albert-setiawan-39673612b/}
+Linkedin |  [Albert Setiawan](https://www.linkedin.com/in/albert-setiawan-39673612b/)
 Instagram | [@albert_setiaawan](https://www.instagram.com/albert_setiaawan/) <-- currently inactive, sorry
 Twitter | [@albertsetiaawan](https://twitter.com/albertsetiaawan)
