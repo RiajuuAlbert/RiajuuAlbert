@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, hoomans and bots alike 👋
 
 <!--
 **RiajuuAlbert/RiajuuAlbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You are currently learning briefly about myself.
+
+I am currently a student majoring in Biological Engineering at [Bandung Institute of Technology](https://www.itb.ac.id/).
+I see myself as an aspiring person that loves to learn anything new, and this is shown by my interest in programming, stock markets, photography, and many others.
